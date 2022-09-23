@@ -1,0 +1,109 @@
+
+
+h1.mission{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10vmax;
+    text-align: center;
+    color: maroon;
+    letter-spacing: .5vmax;
+    margin-top: 1vh;
+    margin-bottom: 5vh;
+
+}
+
+p{
+
+    width: 40vw;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2vw;
+    background-color: maroon;
+    color: white;
+}
+p.mission{
+   
+   
+    
+    display: inline-block;
+
+    text-align: center;
+    line-height: 5vw;
+   
+    margin-left: 7vw;
+    margin-right: 1vw;
+    letter-spacing: .001vw;
+    
+    
+}
+
+img.mission{
+    width: 39vw;
+    display: inline-block;
+    vertical-align: baseline;
+    margin-right: 9%;
+    
+}
+
+body{
+    background-color: rgb(182, 255, 255);
+}
+
+.navi{
+    background-color: maroon;
+    list-style: none;
+    display: inline-block;
+    width: 95vw;
+    padding: 0;
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;
+    height: 2.75vw;
+}
+.navi>li{
+    display: inline-block;
+   
+    margin-right: 16vw;
+    
+}
+.navi>li>a{
+    margin-top: 0%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 41vw;
+    color:white;
+    font-size: 2vw;
+    
+}
+
+.navi>li>a:hover{
+    background-color: teal;
+
+}
+
+.navi>li>p{
+    display: inline;
+   
+    margin: 0%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 41vw;
+    color:white;
+    font-size: 2vw;
+    
+}
+
+.rectangle{
+    width: 90vw;
+    background-color: maroon;
+    height: 68vw;
+    margin-left: 5vw;
+    z-index: -1;
+    position: absolute;
+}
+
+h1.shop{
+
+
+}
+
+p.shop{
+
+
+    
+}
