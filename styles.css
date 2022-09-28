@@ -11,6 +11,81 @@ h1.mission{
 
 }
 
+h1.shop{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10vmax;
+    text-align: center;
+    color: white;
+    background-color: maroon;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    letter-spacing: .5vmax;
+    
+}
+
+div{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5vw;
+    text-align: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+div.shop{
+    background-color: maroon;
+    width: 55vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 1vh;
+    padding-right: 1vh;
+    
+}
+
+.shop>h3{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5vw;
+    background-color: maroon;
+    color: white;
+    display: inline;
+   
+    
+}
+
+img.example{
+    
+    display: inline;
+    width: 25vw;
+    
+    vertical-align: middle;
+    margin-left: 5vw;
+    
+    
+}
+
+.shop>p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2vw;
+    
+    background-color: maroon;
+    width: 30vw;
+    color: white;
+    display: inline-block;
+    margin-left: 1vw;
+    text-align: center;
+    
+    
+}
+p.price{
+    display: inline-block;
+    width: 10vw;    
+    margin-left: 7vw;
+    vertical-align: top;
+    font-size: 5vw;
+    
+}
+
+
 p{
 
     width: 40vw;
@@ -97,13 +172,3 @@ body{
     position: absolute;
 }
 
-h1.shop{
-
-
-}
-
-p.shop{
-
-
-    
-}
